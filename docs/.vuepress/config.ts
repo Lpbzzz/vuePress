@@ -12,9 +12,10 @@ const config = defineUserConfig({
       },
     ],
     lastUpdatedText: '上次更新时间',
-    colorMode:'light',
-    colorModeSwitch:true,
-    repo:'https://github.com/Lpbzzz/vuePress.git'
+    colorMode: 'light',
+    colorModeSwitch: true,
+    repo: 'https://github.com/Lpbzzz/vuePress.git',
+    editLink: false
   }),
 });
 
