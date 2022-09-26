@@ -1,0 +1,15 @@
+{
+  "name": "vuepress",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "version": "1.0.0",
+  "description": "vue",
+  "main": "index.js",
+  "author": "lpb <462570646@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.51"
+  }
+}
