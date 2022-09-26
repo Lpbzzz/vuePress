@@ -2,7 +2,7 @@
   "name": "vuepress",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs --dest dist"
   },
   "version": "1.0.0",
   "description": "vue",
