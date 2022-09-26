@@ -2,7 +2,7 @@ import { defaultTheme, defineUserConfig } from "vuepress";
 
 const config = defineUserConfig({
   lang: 'zh-CN',
-  title: 'VuePress',
+  title: '学习文档',
   description: 'Vue 驱动的静态网站生成器',
   theme: defaultTheme({
     navbar: [
