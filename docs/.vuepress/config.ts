@@ -20,13 +20,13 @@ const config = defineUserConfig({
 			}
 		],
 		sidebar:{
-			'/React':[
+			'/react':[
 				{
 					text:'React',
 					children:[ '/React/README.md' ]
 				}
 			],
-			'/TypeScript':[
+			'/typescript':[
 				{
 					text:'TypeScript',
 					children:[ '/TypeScript/README.md' ]
